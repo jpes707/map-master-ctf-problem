@@ -1,0 +1,141 @@
+Click on a country with a Romance language: es, fr, it, ro, ad, pt, be, ch, md
+Click on a country with a Germanic language: de, ch, at, be, nl, lu, gb, dk, no, se, is
+Click on a country that speaks Romanian: ro, md
+Click on a Benelux country: be, nl, lu
+Click on a country that speaks German: de, ch, at
+Click on a traditionally Scandinavian country: dk, no, se
+Click on a country that borders Wallonia: fr, lu, de, nl
+Click on a country that borders Flanders: fr, nl
+Click on a country formerly part of Yugoslavia: ba, hr, si, me, mk, xk, rs
+Click on a country through which the Danube River flows: de, at, sk, hr, rs, ro, md, ua, hu
+Click on a country that lays claim to the Crimean peninsula: ru, ua
+Click on the country whose capital is Ljublijana: si
+Click on a country that borders San Marino: it
+Click on the closest country to Trieste (not the one that owns it): si
+Click on the closest country to Munich (not the one that owns it): at
+Click on the closest country to Milan (not the one that owns it): ch
+Click on the closest country to Geneva (not the one that owns it): fr
+Click on the closest country to Copenhagen (not the one that owns it): se
+Click on the closest country to Bucharest (not the one that owns it): bg
+Click on a country formerly part of Czechoslovakia: cz, sk, ua
+Click on a country through which the Rhone River flows: fr, ch
+Egin klik euskal lurraldea duen herrialdean: es, fr
+Κάντε κλικ σε μια χώρα με αυτήν τη γλώσσα: gr, cy
+Kliknij kraj z tym językiem: pl
+Klicken Sie auf ein Land mit dieser Sprache: de, ch, at
+Faceți clic pe o țară cu această limbă: ro, md
+Cliquez sur un pays avec cette langue: fr, ch, be
+Click on an entirely European country with a Muslim majority: xk, al, ba
+Click on the country whose capital is Warszawa: pl
+Click on the country whose capital is Bruxelles: be
+Click on the country whose capital is София: bg
+Click on the European country with the second-longest coastline: no
+Click on a country that borders Hellas: al, mk, bg, tr
+Click on the country with the airport FCO: it
+Click on the country with the airport MXP: it
+Click on the country with the airport SKG: gr
+Click on the country with the airport CDG: fr
+Click on the country with the airport SVO: ru
+Click on the country with the airport LGW: gb
+Click on the country with the airport ORY: fr
+Click on the country where the Shell oil company is based: nl
+Click on the country that colonized the Congo, Rwanda, and Burundi: be
+Click on the country that colonized Indonesia: nl
+Click on the country where T-Mobile is based: de
+Click on the country where KLM is based: nl
+Click on the country where Lufthansa is based: de
+Click on a country with a coastline along the Adriatic Sea: it, si, ba, hr, al, me
+Click on a traditionally Macedonian country: gr, mk, bg, rs, xk
+Click on the country where Nestlé is based: ch
+Click on a country that changed its name in the 2010s: cz, mk
+Click on the country where Aeroflot is based: ru
+Click on a country with a coastline along the Bay of Biscay: es, fr
+Click on a country that borders Morocco: es
+Click on a country with land on the Iberian Peninsula: es, fr, ad, pt, gb
+Click on the country that controls the Bosphorus: tr 
+Click on the country that controls the Dardanelles: tr 
+Click on a country that borders the country where Turku is: no, se, ru
+Click on a country that borders the country where Katowice is: ru, lt, by, ua, cz, de, sk
+Click on the country whose capital was formed by the union of two cities: hu
+Click on a country that borders a doubly-landlocked country: ch, at
+Click on the country closest to Split (not the one that owns it): ba 
+Click on the country in Europe with the largest population of ethnic Hungarians besides Hungary: ro
+Click on a country besides Russia that was formed after the Soviet Union collapsed: ua, by, md, ew, lt, lv 
+Click on the country that controls East Prussia: ru 
+Click on the country whose capital is Београд: rs
+Click on the country whose capital is Valetta: mt 
+Click on the only European country not part of the Council of Europe: by
+Click on a GUAM member state: ua, md
+Click on a country with a coastline along the Black Sea: tr, ro, ua, ru, bg
+Click on the closest country to the United Kingdom: ie 
+Click on the country whose capital is Vilnius: lt 
+Click on the country that owns Svalbard: no 
+Click on the country that owns Greenland: dk
+Click on the country that owns Corsica: fr
+Click on a country that borders Brazil: fr
+Click on a country that borders Azerbaijan: ru
+Click on a country that claims land in Antarctica: gb, no, fr
+Click on a country that recognizes the sovereignty of South Ossetia: ru
+Click on an EU member state that does not recognize the sovereignty of Kosovo: es, sk, ro, gr, cy
+Click on the country that owns the Hagia Sophia: tr
+Haz clic en el país donde se hablan el idioma castellano: es
+Fes clic al país amb territori català: es, fr, ad
+Clique no país em que a língua portuguesa é falada: pt
+Click on the country where they speak the language most closely related to Afrikaans: nl
+Click on a country that borders Andorra: es, fr
+Click on a country within the Schengen Area: at, be, cz, dk, ew, fi, fr, de, gr, hu, is, it, lv, li, lt, lu, mt, nl, no, pl, pt, sk, si, es, se, ch
+Click on an EFTA member state: no, ch, is, li
+Click on a Baltic Assembly member state: ew, lv, lt
+Click on a European Union Customs Union member state: at, be, cz, dk, ew, fi, fr, de, gr, hu, it, lv, lt, lu, mt, nl, pl, pt, sk, si, es, se, tr, bg, ro, gb, hr, ie, cy, ad, sm
+Click on a country within the Schengen Area: at, be, cz, dk, ew, fi, fr, de, gr, hu, is, it, lv, li, lt, lu, mt, nl, no, pl, pt, sk, si, es, se, ch 
+Click on a Nordic Council member state: no, se, fi, dk, is
+Click on the country with the oldest parliament in the world: is
+Click on a Visegrád Group member state: cz, sk, hu, pl
+Click on a member of the Union State: ru, by
+Click on a Common Travel Area member state: gb, ie
+Click on the country that owns the Isle of Wight: gb
+Click on a European Union member state: at, be, cz, dk, ew, fi, fr, de, gr, hu, it, lv, lt, lu, mt, nl, pl, pt, sk, si, es, se, bg, ro, gb, hr, ie, cy
+Click on a European Economic Area member state: at, be, cz, dk, ew, fi, fr, de, gr, hu, it, lv, lt, lu, mt, nl, pl, pt, sk, si, es, se, bg, ro, gb, ie, cy, is, no, li
+Click on a country in the Eurozone: at, be, ew, fi, fr, de, gr, it, lv, lt, lu, mt, nl, pt, sk, si, es, ie, cy
+Click on a country where € is the symbol used for currency: at, be, ew, fi, fr, de, gr, it, lv, lt, lu, mt, nl, pt, sk, si, es, ie, cy, me, xk, ad, sm, va
+Click on a country where £ is the symbol used for currency: gb
+Click on a country where ₽ is the symbol used for currency: ru
+Click on the country whose capital is Подгорица: me
+Click on the country where Trader Joe's is based: de
+Click on the country where Carrefour is based: fr
+Click on the country where BNP Paribas is based: fr
+Click on the country where BP is based: gb
+Click on the country where HSBC is based: gb
+Click on the country where Vodafone is based: gb
+Click on the country where Bayer is based: de
+Click on the country where Nokia is based: fi
+Click on the country where Lukoil is based: ru
+Click on the country where Volvo is based: se
+Click on the country that owns Tristan da Cunha: gb
+Click on the country closest to Corfu (not the one that owns it): al
+Click on the country with the most UNESCO World Heritage Sites: it
+Click on a country with a main UN office: at, ch, nl
+Click on the country where NATO is headquarted: be
+Click on the country that houses the International Court of Justice: nl
+Click on the country where Melania Trump was born: si 
+Click on the country where the longest ruling monarch in history ruled: fr
+Click on the country that sold the Virgin Islands to the United States: dk
+Click on a country that colonized Namibia: de, gb
+Click on the country that previously owned the Suez Canal: gb
+Click on the country that owns Sardinia: it
+Click on the country that owns Rhodes: gr
+Click on a country previously controlled by the Umayyad Caliphate: es, pt, fr
+Click on an entirely Fennoscandian country: no, se, fi
+Click on a country through which the Volga River flows: ru
+Click on a country that borders Schleswig-Holstein: dk
+Click on a country that has land on Jutland: de, dk
+Click on the country where Aarhus is: dk
+Click on a country with land on the Apennine Peninsula: it, sm
+Click on a country with land along the Tyrrhenian Sea: it, fr
+Click on the country where the Dolomites are: it
+Click on a country that borders South Tyrol: ch, at
+Click on a country that has 100% of its land on the Balkan Peninsula: ba, xk, mk, rs
+Click on the country that controls Åland: fi
+Click on the country that controls the Faroe Islands: dk
+Click on the country that controls the Isle of Man: gb
+Click on the country that became independent from Denmark in 1944: is

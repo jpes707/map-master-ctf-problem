@@ -1,0 +1,1 @@
+document.getElementById('navbar').innerHTML = '<ul class="topnav" style="width:' + window.innerWidth + ';"><li style="padding: 14px 16px; color:#A17917; float: left;" id="username">Europe map game</li></ul>';

@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Germania+One|Rosarivo|Source+Serif+Pro:400,700&display=swap');
+
+html {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    margin-left: 32px;
+    margin-top: 40px;
+    background-color: #DADADA;
+    font-family: 'Germania One', cursive;
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 64px;
+    font-family: 'Rosarivo', serif;
+}
+
+h2 {
+    font-size: 32px;
+    font-family: 'Rosarivo', serif;
+}
+
+ul.topnav {
+  list-style-type: none;
+  margin-left: -32px;
+  margin-top: -80px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000000;
+  top: 0;
+  font-size: 40px;
+}
+
+ul.topnav li {
+    float: left;
+    color: white;
+    text-align: center;
+}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color:  #A17917;}
+
+ul.topnav li a.active {background-color: #790201;}
+
+ul.topnav li.right {float: right;}
+
+button {
+    background: #A17917;
+    color: white;
+    height: 50px;
+    font-family: 'Source Serif Pro', serif;
+    font-weight: bold;
+    font-size: 24px;
+    text-shadow:none;
+    outline-offset: -2px;
+    background-image: none;
+    outline: 0;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    border-width: thin thin thin thin; 
+}
+
+button:hover {background-color:  #790201;}
+
+.wrapper {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.column {
+       float: right;
+}
+
+#info {
+    width: 45%;
+}
+
+#map {
+    width: 55%;
+}
+
+#mapsvg {
+        float: right;
+}
